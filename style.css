@@ -1,0 +1,81 @@
+.background {
+ position: absolute;
+ background-image: url(https://i.postimg.cc/wM2JGd6Q/v-gif-ezgif-com-video-to-gif-converter.gif);
+ background-size: cover;
+ top: 0;
+ right: 0;
+ z-index: 0;
+ width: 100%;
+ height: 100%;
+}
+
+.container {
+ width: 345px;
+ height: 512px;
+
+ border-radius: 10%;
+ background-color: black;
+ color: white;
+ margin: 100px auto 0 510px;
+ position: relative;
+ z-index: 1;
+
+}
+
+div#content {
+ margin: 50px 0 auto 20px;
+
+}
+
+.profile {
+ width: 150px;
+ height: 150px;
+ margin-top: 35px;
+ margin-left: 75px;
+}
+
+h2 {
+ font-size: 32px;   
+ font-weight: bold;
+ margin: 10px auto 0 80px;
+}
+
+h6 {
+ font-size: 16px;
+ font-weight: 500;
+ margin: 5px auto 15px 120px;
+ color: #808080;
+}
+
+span {
+ margin: 50px auto 15px 85px;
+ font-size: 28px;
+ font-weight: bold;
+}
+
+p {
+ padding-left: 10px;
+}
+
+.badge-container {
+ display: flex;
+ justify-content: center;
+ gap: 5px;
+}
+
+.badge img {
+ width: 30px;
+ height: 30px;
+}
+
+.icone-container {
+ padding-top: 50px;
+ display: flex;
+ justify-content: center;
+ gap: 10px;
+}
+
+.icone img {
+ width: 40px;
+ height: 40px;
+}
