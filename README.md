@@ -1,5 +1,5 @@
 <h1 align="center">
-   <a href="https://www.github.com/nlucas011">🔗・Site Pessoal</a>
+   <a href="https://nlucas011.github.io/SitePessoal-Discord/">🔗・Site Pessoal</a>
 </h1>
 
 <h2 align="left">💻 Sobre o Projeto</h2>
