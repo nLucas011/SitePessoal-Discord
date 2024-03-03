@@ -21,11 +21,12 @@ body {
  border-radius: 10%;
  background-color: black;
  color: white;
- margin: 100px auto 0 510px;
+ margin: auto;
+ margin-top: 3.4rem;
  position: relative;
  z-index: 1;
  border: 1px solid #808080; 
- 
+ position: sticky;
 }
 
 div#content {
@@ -37,8 +38,8 @@ div#content {
  width: 150px;
  height: 150px;
  margin-top: auto;
- margin-left: 75px;
- opacity: 100%;
+ margin-left: 4.9rem;
+ border-radius: 100%;
 }
 
 h2 {
@@ -108,11 +109,12 @@ p {
 .icone img {
  width: 35px;
  height: 35px;
-
+ border-radius: 100%;
  padding: 9px;
 }
 
 .icone img:hover  {
- background: rgba(255, 255, 255, 0.2);
- border-radius: 50%;
+ background: rgba(255, 255, 255, 0.25);
+ transform: scale(1.09);
+ transition: ease-out all;
 }
